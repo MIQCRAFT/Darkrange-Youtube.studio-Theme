@@ -7,9 +7,9 @@ Need help? Join my server! **[https://mewinvite.netlify.app/](https://mewinvite.
 
 # Installing
 Follow instructions :
-### - With Extension
+- With Extension
 ### Download Instagram Theme : [https://miqcraft-theme.netlify.com](https://miqcraft-theme.netlify.app/page/youtube-theme)
-### - With Userstyle.org [Stylish]
+- With Userstyle.org [Stylish]
 ### Go to pages : [https://userstyles.org/styles/youtube-studio-miqcraft-theme](https://userstyles.org/styles/200823/youtube-studio-miqcraft-theme)
 
 **I found a bug, what do I do?**<br>Make a **Pull Request / Issue** and tell me :)
